@@ -459,11 +459,11 @@ animation: about-text-imagination 1s ease-in-out forwards;
      font-weight: bold; 
      cursor: pointer; 
  } 
- .card .checkOut div:nth-child(9){ 
+ .card .checkOut div:nth-child(11){ 
      background-color: #15161e; 
      color: #fff; 
  } 
- .card .checkOut div:nth-child(10){ 
+ .card .checkOut div:nth-child(12){ 
      background-color: #0ee80e; 
      color: #fff; 
  } 
