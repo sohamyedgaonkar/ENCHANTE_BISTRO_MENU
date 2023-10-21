@@ -116,7 +116,7 @@
           count = count + value.quantity;
           sgst = sgst + value.price*0.05;
           cgst = cgst + value.price*0.05; 
-          finaltotal = finaltotal + value.price*1.1
+          finaltotal = finaltotal + value.price*1.1+40;
 
           if(value != null){  
               let newDiv = document.createElement('li');  
