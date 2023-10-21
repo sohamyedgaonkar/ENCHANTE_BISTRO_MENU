@@ -297,7 +297,7 @@ animation: about-text-imagination 1s ease-in-out forwards;
     font-weight: 500;
 }
 .food-description .food-price{
-    color: #117964;
+    color: #dfe4e3;
     font-weight: 700;
 }
 /* ****************testimonial styling********************* */
@@ -402,7 +402,7 @@ animation: about-text-imagination 1s ease-in-out forwards;
  } 
  .list .item .price{ 
      margin: 10px; 
-     color: #117964;
+     color: #e8f0ee;
  } 
  .list .item button{ 
      background-color: #1C1F25; 
